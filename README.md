@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+farhuu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+farhuu+WA+Bot+repo;Created+by+farhuu;This+is+the+Best++Bgm+bot;With+tons+of+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,7 +9,7 @@
 <img src="Farhan.jpg" width="200" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="farhuu" src="https://img.shields.io/badge/farhuu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/FarhanMhodezz"><img title="Author" src="https://img.shields.io/badge/Author-FarhanMhodezz/farhuu?color=blue&style=for-the-badge&logo=whatsapp"></a>
